@@ -14,7 +14,9 @@ The main objectives of this project were to:
 
 - Extend the features that Facebook Messenger has. By creating a messenger bot, the project demonstrated how to integrate with a popular messaging platform and extend its functionality.
 - Understand how to use different HTTP methods. The project used HTTP methods such as GET, POST, and DELETE to communicate with the APIs and the web interface.
-- Make my own APIs using third-party libraries of Node.js. The project used third-party libraries such as Axios and Cheerio to make HTTP requests and parse HTML responses, respectively. By using these libraries, the project was able to create APIs that interacted with the web interface and the APIs.## Key Features
+- Make my own APIs using third-party libraries of Node.js. The project used third-party libraries such as Axios and Cheerio to make HTTP requests and parse HTML responses, respectively. By using these libraries, the project was able to create APIs that interacted with the web interface and the APIs.
+
+## Key Features
 
 <p align="center" width="100%">
   <img src="img/commands.png" width="400px"/> <br>
