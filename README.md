@@ -1,6 +1,4 @@
-# Messenger Bot
-
-## Project Description
+# Mugi Bot
 
 A messenger bot is a chatbot that integrates with Facebook Messenger. It allows users to interact with the bot through text messages, making it easy to use and accessible to a wide range of users. The bot can be used to perform a variety of tasks, such as searching the internet, retrieving information from APIs, and playing music.
 
