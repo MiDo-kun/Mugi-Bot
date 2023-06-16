@@ -86,7 +86,7 @@ Overall, this project provided me with a solid foundation in web development usi
 
    `npm install`
 
-4. Create your own `.env file`, coply the contents of `.env-sample` and fill in the :
+4. Create your own `.env file`, copy the contents of `.env-sample` and fill in the :
 
    `USERNAME_ACC and PASSWORD` with your facebook account.
   
